@@ -30,7 +30,7 @@ body {
 .btn {
     background: var(--color-bg-dark);
     border-radius: 0.8rem;
-    padding: 0.8rem;
+    padding: 0.8rem 0.8rem 0.4rem 0.8rem;
     font-size: 1.6rem;
     color: var(--color-white);
     box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.2);
@@ -92,7 +92,7 @@ section{
     align-items: center;
     justify-content: space-between;
     padding: 0 1.6rem 1.5rem;
-    background: var(--color-bg-dark);
+    background: rgba(49, 44, 44, 0.844);
     z-index: 9;
 }
 
